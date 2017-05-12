@@ -6,3 +6,6 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 </p>
 
 <p align="center"><img src="https://blog.keras.io/img/keras-tensorflow-logo.jpg" /></p>
+
+
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/5808185/26001529/4fbb32da-374a-11e7-95a8-5b74238b4971.png">
