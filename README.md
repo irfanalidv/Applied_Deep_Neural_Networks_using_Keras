@@ -1,5 +1,5 @@
 
-# Deep Neural Networks with Keras and Tensorflow
+# Deep Neural Networks with Keras and Tensorflow 
 
 <p>
 Keras is a high-level neural networks API, written in Python and capable of running on top of either TensorFlow or Theano. 
